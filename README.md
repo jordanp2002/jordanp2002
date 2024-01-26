@@ -22,4 +22,8 @@
 
 #
 
+Resume
+[resume](img/JordanPohrResume.docx
+)
+
 
