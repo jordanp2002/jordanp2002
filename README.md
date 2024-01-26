@@ -22,8 +22,8 @@
 
 #
 
-Resume
-[resume](img/JordanPohrResume.docx
+Current Resume:
+[Jordan Pohr Resume](img/JordanPohrResume.docx
 )
 
 
