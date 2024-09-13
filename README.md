@@ -22,7 +22,7 @@
 #
 
 Current Resume:
-[Jordan Pohr Resume](img/JordanPohrResume.docx
+[Jordan Pohr Resume](Jordan_s_Resume-2.pdf)
 )
 
 
