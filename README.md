@@ -1,6 +1,6 @@
 # Jordan Pohr 👋
 
-🚀 As a junior developer, I thrive in crafting dynamic JavaScript web applications and navigating the intricacies of Python for data analysis. My passion extends across various realms within software engineering and data analysis, propelling me to continually explore and master emerging technologies. Always hungry for knowledge, I embark on a perpetual journey to broaden my understanding of the ever-evolving landscape of software development.
+I like to code in Typescript 
 
 ---
 
