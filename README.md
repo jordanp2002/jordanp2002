@@ -1,6 +1,8 @@
 # Jordan Pohr 👋
 
-I like to code in Typescript 
+Hi I am Jordan, a software developer from Canada. I am interested in many facets of computing and development ranging from web development to AI and machine learning. I am always looking to learn new technologies, improve my skillset and expand my ulitiy. 
+
+When im not developing or playing with computer hardware, I am studying Japanese, playing games or fitness. 
 
 ---
 
@@ -16,7 +18,6 @@ I like to code in Typescript
 <img align="left" alt="JavaScript" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <br />
 
 
