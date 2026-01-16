@@ -1,6 +1,6 @@
 # Jordan Pohr 👋
 
-Hi I am Jordan, a software developer from Canada. I am interested in many facets of computing and development ranging from web development to AI and machine learning. I am always looking to learn new technologies, improve my skillset and expand my ulitiy. 
+Hi I am Jordan, a software developer from Canada. I am interested in many facets of computing and development ranging from web development to AI and machine learning. I am always looking to learn new technologies, improve my skillset and expand my ultility
 
 When im not developing or playing with computer hardware, I am studying Japanese, playing games or fitness. 
 
